@@ -4,6 +4,11 @@
 
 Program output on June 4 with sample calendar.csv file (program depends on current day so output may vary):
 
+(actual)
+
+2017-06-07 18:31:00 22:00:00
+
+
 (debug, datetime.time is (hour, minute, ?second))
 
 2017-06-04 [datetime.time(8, 0), datetime.time(9, 29, 59)]  
@@ -14,10 +19,6 @@ Program output on June 4 with sample calendar.csv file (program depends on curre
 2017-06-07 [datetime.time(11, 35, 1), datetime.time(12, 29, 59)]  
 2017-06-07 [datetime.time(18, 31), datetime.time(22, 0)]  
 2017-06-08 [datetime.time(8, 0), datetime.time(8, 59, 59)]
-
-(actual)
-
-2017-06-07 18:31:00 22:00:00
 
 Explanation:
 
