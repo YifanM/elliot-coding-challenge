@@ -1,12 +1,12 @@
-##H2 As part of my co-op application to Elliot for Fall 2017.
+## As part of my co-op application to Elliot for Fall 2017.
 
-##H2 yifan.ma@uwaterloo.ca
+## yifan.ma@uwaterloo.ca
 
 Program output on June 4 with sample calendar.csv file (program depends on current day so output may vary):
 
 (debug, datetime.time is (hour, minute, ?second))
 
-2017-06-04 [datetime.time(8, 0), datetime.time(9, 29, 59)]
+2017-06-04 [datetime.time(8, 0), datetime.time(9, 29, 59)]\n
 2017-06-05 [datetime.time(20, 30, 1), datetime.time(22, 0)]
 2017-06-06 [datetime.time(20, 0), datetime.time(22, 0)]
 2017-06-07 [datetime.time(8, 0), datetime.time(10, 34, 59)]
