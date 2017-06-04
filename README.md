@@ -16,6 +16,7 @@ Program output on June 4 with sample calendar.csv file (program depends on curre
 2017-06-08 [datetime.time(8, 0), datetime.time(8, 59, 59)]
 
 (actual)
+
 2017-06-07 18:31:00 22:00:00
 
 Explanation:
