@@ -1,3 +1,5 @@
+#Python 3.5.2
+
 #Assumptions
 
 #time at which program is run is not a factor in determining free time in the current day
